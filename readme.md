@@ -1,4 +1,4 @@
-Natural Language to SQL Generator
+##Natural Language to SQL Generator
 
 This is a Python-based backend application that converts natural language questions (like "Show top 5 customers by revenue") into syntactically correct SQL queries. The project is built using FastAPI and powered by the modern Google GenAI SDK (Gemini 1.5 Flash).
 
