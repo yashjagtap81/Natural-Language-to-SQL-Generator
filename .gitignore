@@ -1,0 +1,27 @@
+Environments and API Keys
+
+.env
+venv/
+ENV/
+env/
+.venv/
+
+Python compiler cache
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+IDEs, Editors and OS metadata
+
+.vscode/
+.idea/
+*.suo
+.ntvs
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+Thumbs.db
